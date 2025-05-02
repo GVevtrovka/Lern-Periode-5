@@ -4,21 +4,16 @@
 
 ## Grob-Planung
 
-Ich möchte eine Datenbank für Airplane 
+Ich möchte eine Datenbank für Flugzeuge des Spiels War Thunder vom Soviet Plane Tree.
+Dazu werde ich einiges an tabellen benötigen, um später imstande zu sein gute vergleiche zu tätigen etc.
 
-## 2.5
-
-- [ ] Das Datenmodell für die Zukünftige Datenbank erstellen.
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihr bestehendes Projekt und die Neuerungen von heute hochzuladen. Beschreiben Sie eindeutig, was heute an Code dazugekommen ist.
 
 ## 9.5 Kernfunktionalität
 
-- [ ] ... (dieses AP sollte zur Hälfte offline, also ohne Laptop zu bearbeiten sein — beispielsweise ein Datenmodell?)
-- [ ] ...
-- [ ] ...
+- [ ] Mindestens 3 Tabelle inklusive die Haupttabelle erstellen und mit daten befüllen.
+- [ ] Das Datenmodell jemandem zur Bewertung zeigen, um spätere unnötige Probleme zu verhindern.
+- [ ] SIcher das Umlet Datenmodell fertigstellen
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
