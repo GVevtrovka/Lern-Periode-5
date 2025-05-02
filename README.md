@@ -4,12 +4,11 @@
 
 ## Grob-Planung
 
-Ich möchte eine Datenbank für 
+Ich möchte eine Datenbank für Airplane 
 
 ## 2.5
 
-- [ ] Ich sollte ein Datenmodell erstellen.
-- [ ] ...
+- [ ] Das Datenmodell für die Zukünftige Datenbank erstellen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
