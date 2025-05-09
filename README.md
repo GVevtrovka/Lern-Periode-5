@@ -15,13 +15,8 @@ Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu
 - [x] Datenbank mit Tabellen und deren Tabellenstruktur erstellen.
   
   _Hatte dumme Probleme mit der erstellung der Tabellen und den Constraints, aber bin jetzt fertig._
-- [ ] Die Win-Forms Abfrage schon möglichst fertig machen.
-- [ ] Ein bündel von Daten in die Datenbank einfügen.
-
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+- [x] Die Constraints korrekt zu erstellen.
+- [ ] Die Datenbank zu verbinden mit Visual Studios. 
 
 ## 16.5 Kernfunktionalität und Ausbau
 
