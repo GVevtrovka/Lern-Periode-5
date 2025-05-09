@@ -16,12 +16,15 @@ Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu
   
   _Hatte dumme Probleme mit der erstellung der Tabellen und den Constraints, aber bin jetzt fertig._
 - [x] Die Constraints korrekt zu erstellen.
-- [ ] Die Datenbank zu verbinden mit Visual Studios. 
+- [ ] Die Datenbank zu verbinden mit Visual Studios.
+
+Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an einem Constraint gearbeitet habe (aus bestimmter Unzufriedenheit wiederholte ich es etwa 10 mal und machte schlussendlich eine neue DB). Zum Schluss hatte ich eine Datenbank-Struktur, mit welcher ich zufreieden sein konnte.
+
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] ...
-- [ ] ...
+- [ ] Die Abfrage-Funktion in visual Studio mindestens 25% fertig zu haben.
+- [ ] Ein HIntergrund für die Abfrage-App hinzufügen.
 - [ ] ...
 - [ ] ...
 
