@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 Ich möchte eine Datenbank für Flugzeuge des Spiels War Thunder vom Soviet Plane Tree.
-Dazu werde ich einiges an tabellen benötigen, um später imstande zu sein gute vergleiche zu tätigen etc.
+Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu nutzen als eine gut bedienabare Abfrage-Applikation.
 
 
 ## 9.5 Kernfunktionalität
