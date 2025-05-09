@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-Ich möchte eine Datenbank für Flugzeuge des Spiels War Thunder vom Soviet Plane Tree.
+Ich möchte eine Datenbank für Flugzeuge des Spiels War Thunder von den Air Tree mit den daten für RB (Realistic Battles).
 Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu nutzen als eine gut bedienabare Abfrage-Applikation.
 
 ![image](https://github.com/user-attachments/assets/fce34f70-7ae7-47b6-ac05-59c870035dc0)
