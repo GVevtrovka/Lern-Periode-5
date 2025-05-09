@@ -10,9 +10,9 @@ Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu
 
 ## 9.5 Kernfunktionalität
 
-- [ ] Mindestens 3 Tabelle inklusive die Haupttabelle erstellen und mit daten befüllen.
-- [ ] Das Datenmodell jemandem zur Bewertung zeigen, um spätere unnötige Probleme zu verhindern.
-- [ ] SIcher das Umlet Datenmodell fertigstellen
+- [ ] Datenbank mit Tabellen und deren Tabellenstruktur erstellen.
+- [ ] Die Win-Forms Abfrage schon möglichst fertig machen.
+- [ ] Ein bündel von Daten in die Datenbank einfügen.
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
