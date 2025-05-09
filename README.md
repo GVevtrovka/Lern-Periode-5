@@ -6,6 +6,7 @@
 
 Ich möchte eine Datenbank für Flugzeuge des Spiels War Thunder vom Soviet Plane Tree.
 Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu nutzen als eine gut bedienabare Abfrage-Applikation.
+![image](https://github.com/user-attachments/assets/fce34f70-7ae7-47b6-ac05-59c870035dc0)
 
 
 ## 9.5 Kernfunktionalität
