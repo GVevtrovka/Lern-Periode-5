@@ -12,7 +12,7 @@ Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu
 
 ## 9.5 Kernfunktionalität
 
-- [ ] Datenbank mit Tabellen und deren Tabellenstruktur erstellen.
+- [x] Datenbank mit Tabellen und deren Tabellenstruktur erstellen.
 - [ ] Die Win-Forms Abfrage schon möglichst fertig machen.
 - [ ] Ein bündel von Daten in die Datenbank einfügen.
 
