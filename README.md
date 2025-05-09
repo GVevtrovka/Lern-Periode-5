@@ -28,10 +28,6 @@ Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an ein
 - [ ] Für jedes Land zwei Flugzeuge per rang hinzufügen für tests.
 - [ ] Die bisherige Funktion so weit, wie möglcih testen.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
-
 ## 23.5 Abschluss
 
 - [ ] ...
