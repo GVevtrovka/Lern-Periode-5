@@ -18,7 +18,7 @@ Diese Datenbank möchte ich dann mit einem Win-Forms verbinden, um diese dann zu
 - [x] Die Constraints korrekt zu erstellen.
 - [ ] Die Datenbank zu verbinden mit Visual Studios.
 
-Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an einem Constraint gearbeitet habe (aus bestimmter Unzufriedenheit wiederholte ich es etwa 10 mal und machte schlussendlich eine neue DB). Zum Schluss hatte ich eine Datenbank-Struktur, mit welcher ich zufreieden sein konnte.
+Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an einem Constraint gearbeitet habe (aus bestimmter Unzufriedenheit wiederholte ich es etwa 10 mal und machte schlussendlich eine neue DB). Zum Schluss hatte ich eine Datenbank-Struktur, mit welcher ich zufreieden sein konnte, jedoch ohne waffen.
 
 
 ## 16.5 Kernfunktionalität und Ausbau
