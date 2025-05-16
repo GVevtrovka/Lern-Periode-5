@@ -24,6 +24,7 @@ Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an ein
 ## 16.5 Kernfunktionalität und Ausbau
 
 - [ ] Die Abfrage-Funktion in visual Studio mindestens 25% fertig zu haben.(particulary fertig)
+  - [x] Die Database verbinden mit Visual Studio (sehr schwer...)
 - [ ] Ein Hintergrund für die Abfrage-App hinzufügen.
 - [ ] Für jedes Land zwei Flugzeuge per rang hinzufügen für tests.
 - [ ] Die bisherige Funktion so weit, wie möglcih testen.
