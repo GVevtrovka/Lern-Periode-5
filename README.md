@@ -28,6 +28,10 @@ Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an ein
 - [ ] Für jedes Land zwei Flugzeuge per rang hinzufügen für tests.
 - [ ] Die bisherige Funktion so weit, wie möglcih testen.
 
+### Status 10:00 Uhr
+ - Die Connection String funktioniert noch gar nicht korrekt.
+ - Ich bin seit Anfang daran am herausfinden, was falsch ist, finde es jedoch nicht raus.
+
 ## 23.5 Abschluss
 
 - [ ] ...
