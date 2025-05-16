@@ -35,6 +35,8 @@ Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an ein
 ### Status 11:50 Uhr
 - Ich hatte heute mehrere Stunden Probeme bei der Connection String der Database und wurde damit kurz vor 11:00 Uhr fertig.
 - Bisher würde die Abfrage funktinieren, aber ich habe noch keine Daten in der Tabelle und die Resultate können nicht ausgegeben werden in der Textbox bisher.
+### Rückblick heute
+Heute haben mir die Probleme mit der connection String und die Fakt, dass ich vergessen hatte das Nuget packet hinzuzufügen extreme Probleme, welche mich saftige 4 Stunden kosteten.
 
 ## 23.5 Abschluss
 
