@@ -39,7 +39,7 @@ Ich kam heute ganz ehrlich gesagt nicht so super voran, da ich sehr lange an ein
 Heute haben mir die Probleme mit der connection String und die Fakt, dass ich vergessen hatte das Nuget packet hinzuzufügen extreme Probleme, welche mich saftige 4 Stunden kosteten.
 
 ## 23.5 Abschluss
-
+- [ ] Eine Auswwahl für Daten hinzüfügen und zusätzlich die abfrage anpassen.
 - [ ] Daten in die Tabelle einfügen
 - [ ] womäglich einen Hintergrund hinzufügen.
 - [ ] Reflexion über Ihre Arbeitsweise
